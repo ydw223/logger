@@ -1,0 +1,11 @@
+{
+    "name": "logger",
+
+    "version": "0.0.1",
+
+    "dependencies": {
+        "node-syslog": "git://github.com/ydw223/node-syslog.git"
+    },
+
+    "readmeFilename": "README.md"
+}

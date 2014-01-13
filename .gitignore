@@ -1,0 +1,5 @@
+*.swp
+*.swo
+diff.log
+npm-debug.log
+node_modules/
